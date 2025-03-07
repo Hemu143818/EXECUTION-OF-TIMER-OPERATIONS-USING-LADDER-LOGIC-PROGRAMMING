@@ -1,10 +1,10 @@
-# EXECUTION-OF-TIMER-OPERATIONS-USING-LADDER-LOGIC-PROGRAMMING
+# EX:2  EXECUTION-OF-TIMER-OPERATIONS-USING-LADDER-LOGIC-PROGRAMMING
 
 
- #### NAME :
- #### REGISTER NUMBER :
- #### DEPARTMENT 
- #### YEAR 
+ ### NAME :KUNATI HEMANTH YADAV
+ ### REGISTER NUMBER : 212224100033
+ ### DEPARTMENT :C.S.E(CYBER SECYRITY)
+ ### YEAR : 1
 
  
 # Aim:
@@ -81,19 +81,8 @@ Retentive Timer: The output should turn on after the accumulated time reaches th
 
 
 # Simulation Screenshots 
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Screenshot 2025-03-05 132841](https://github.com/user-attachments/assets/c8d26447-de5a-4a7a-b565-bfe844f259ca)
+![Screenshot 2025-03-05 132848](https://github.com/user-attachments/assets/51a4d338-b45a-4ffc-af03-63a76ebe5f19)
 
 
 # Results:
